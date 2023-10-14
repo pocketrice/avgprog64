@@ -60,6 +60,7 @@ project(":core") {
 
     dependencies {
         implementation "com.talosvfx:talos-libgdx:1.4.1"
+        implementation 'org.javatuples:javatuples:1.2'
         api "com.badlogicgames.gdx:gdx:$gdxVersion"
         api "com.badlogicgames.gdx:gdx-bullet:$gdxVersion"
         api "com.badlogicgames.gdx:gdx-freetype:$gdxVersion"
