@@ -1,0 +1,20 @@
+# Made in Blockbench 4.8.3
+newmtl m_76f24fb0-de3b-3b9a-fff8-ccb3132f2fc1
+map_Kd face.png 
+newmtl m_947b7d97-4ab3-7894-4300-39e7b3b39671
+map_Kd eye.png 
+newmtl m_1c76c961-ee96-78ea-331e-f43b4438edc2
+map_Kd mouth.png 
+newmtl m_2c5785c0-fd4b-ec23-bfe0-a162ab9f65b5
+map_Kd chin.png 
+newmtl m_d9b6854f-7114-29cf-f633-78fad77eefd4
+map_Kd hat.png 
+newmtl m_eef53a9c-cde7-7d79-91af-efe5fbe3ce1c
+map_Kd shades.png 
+newmtl m_d6ee2aec-b747-63b4-bd4f-6cd9bf6f4e6f
+map_Kd glassframe.png 
+newmtl m_def16f16-5285-b54c-3240-9fe71636d57b
+map_Kd frame1.png 
+newmtl m_84b7458d-5c71-3689-e1e7-435346fa15b4
+map_Kd frame2.png 
+newmtl none
