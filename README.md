@@ -1,21 +1,21 @@
 <div align="center">
-  <a href="https://github.com/pocketrice/GamblersDelight">
+  <a href="https://github.com/pocketrice/avgprog64">
       <img src="https://github.com/PocketRice/avgprog64/assets/79682953/a4df3205-55ee-448d-aab7-789f162c4570" alt="avgproglogo" height=160 width=750>
 
   </a>
 </div>
   <div align="center">
-<a href="https://github.com/pocketrice/Kryptos/graphs/contributors" alt="Contributors">
-        <img src="https://img.shields.io/github/contributors/pocketrice/Kryptos" /></a>
-<a href="https://github.com/pocketrice/Kryptos/pulse" alt="Activity">
-        <img src="https://img.shields.io/github/commit-activity/m/pocketrice/Kryptos" /></a>
-    <a href="https://circleci.com/gh/pocketrice/Kryptos/tree/master">
-        <img src="https://img.shields.io/circleci/project/github/pocketrice/Kryptos/master" alt="build status"></a>
+<a href="https://github.com/pocketrice/avgprog64/graphs/contributors" alt="Contributors">
+        <img src="https://img.shields.io/github/contributors/pocketrice/avgprog64" /></a>
+<a href="https://github.com/pocketrice/avgprog64/pulse" alt="Activity">
+        <img src="https://img.shields.io/github/commit-activity/m/pocketrice/avgprog64" /></a>
+    <a href="https://circleci.com/gh/pocketrice/avgprog64/tree/master">
+        <img src="https://img.shields.io/circleci/project/github/pocketrice/avgprog64/master" alt="build status"></a>
 </div>
 
 <p align="center">
   <br>
-A lil redux of the original "average programmer" drawing made in Java Swing about a year ago (simpler times...) Recreation of the Super Mario 64 start screen using some Blockbench and LibGDX magic.</em>
+A lil redux of the original "average programmer" drawing made in Java Swing about a year ago. Recreation of the Super Mario 64 start screen using some Blockbench and LibGDX magic.</em>
   
   <br><br>
 
