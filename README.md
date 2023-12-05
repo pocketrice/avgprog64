@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/pocketrice/GamblersDelight">
-      <img src="https://github.com/PocketRice/avgprog64/assets/79682953/46ae57f3-b8f2-4059-b987-848b64e00f0a" alt="avgproglogo" height=160 width=750>
+      <img src="https://github.com/PocketRice/avgprog64/assets/79682953/a4df3205-55ee-448d-aab7-789f162c4570" alt="avgproglogo" height=160 width=750>
 
   </a>
 </div>
