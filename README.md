@@ -15,7 +15,7 @@
 
 <p align="center">
   <br>
-A lil redux of the original "average programmer" drawing made in Java Swing about a year ago. Recreation of the Super Mario 64 start screen using some Blockbench and LibGDX magic.</em>
+Recreation of the Super Mario 64 start screen with a small twist using some Blockbench and LibGDX magic. A tiny redux of a 2D Java Swing drawing made about a year ago.</em>
   
   <br><br>
 
